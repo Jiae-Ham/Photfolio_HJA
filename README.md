@@ -59,4 +59,3 @@ STT-LLM-TTS 실시간 파이프라인, 외부 API 연동, RAG 기반 AI 서비�
 ### 마무리
 
 <p align="center"><img src="images/page-17.png" width="100%"></p>
-<p align="center"><img src="images/page-18.png" width="100%"></p>
